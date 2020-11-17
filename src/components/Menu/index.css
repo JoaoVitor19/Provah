@@ -31,7 +31,6 @@ a{
     flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
-    padding: 20px;
     border-bottom: 15px solid Black;
     width: 100%;
 }
@@ -39,6 +38,7 @@ a{
 .left{
     display: flex;
     align-items: center;
+    margin-left: 40px;
 }
 
 .produtos{
@@ -58,5 +58,6 @@ a{
 }
 
 .left img {
-    margin-left: 600px
+    width: 150px;
+    margin-left: 25px;
 }
