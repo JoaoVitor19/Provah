@@ -1,0 +1,11 @@
+.Error{
+    padding: 200px;
+    background-color: teal;
+}
+.Error h1{
+    display: flex;
+    color: white;
+}
+.Error a{
+    color: white;
+}
