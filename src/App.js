@@ -1,8 +1,10 @@
-
-import React from 'react'
-import Routes from './routes';
+import Menu from './components/Menu'
+import './App.css';
 
 function App() {
-  return <Routes />;
+  return (
+ <Menu />
+  );
 }
+
 export default App;
